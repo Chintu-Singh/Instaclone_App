@@ -1,4 +1,4 @@
-# fluttershare
+# Instagram
 
 Instagram App Clone made using flutter
 
